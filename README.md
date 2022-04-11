@@ -1,4 +1,4 @@
-<img src=".github/ignite.png" alt="Ignite" >
+![ignite](https://user-images.githubusercontent.com/72982326/162775611-d20a2f2a-771a-476f-838b-2efae752846a.png)
 
 <h3 align="center">
   Desafio 02 - Componentizando a aplicação
