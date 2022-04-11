@@ -15,8 +15,9 @@
 ## :rocket: Sobre o desafio
 
 <p align="center">
-![watchme](https://user-images.githubusercontent.com/72982326/162774888-af0104e9-fd4d-406e-948a-9e863d600879.png)
 </p>
+
+![watchme](https://user-images.githubusercontent.com/72982326/162774888-af0104e9-fd4d-406e-948a-9e863d600879.png)
 
 Nesse desafio, o principal objetivo é refatorar uma página para listagem de filmes de acordo com gênero. 
 
